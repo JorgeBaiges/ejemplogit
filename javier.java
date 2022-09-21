@@ -14,6 +14,7 @@ class pocha {
         System.out.println("el numero " + numerito + " premiado es " + hola);
 
     //esto es el sexto commit
+    //esto es el septimo commit desde copia
     }
 
 
